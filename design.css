@@ -11,22 +11,20 @@ html {
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
-}
-
-body,
-html {
-  height: 100%;
+  width: 100%;
+  min-height: 100vh;
   display: grid;
+  place-content: center;
 }
 
 .qr-parent {
   background-color: white;
-  width: 30rem;
+  max-width: 30rem;
   height: 46rem;
   text-align: center;
-
+  margin: 1.5rem;
+  padding: 0 1rem;
   border-radius: 1.5rem;
-  margin: auto;
   box-shadow: 0px 10px 10px hsla(0, 0%, 85%, 0.651);
 }
 
