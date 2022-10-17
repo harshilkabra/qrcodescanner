@@ -25,8 +25,8 @@ This is a simple qr code page built as a starter project on Frontend Mentor.
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-qr-code-scanner-using-css-grid-UJ0pGfToUF)
+- Live Site URL: (https://harshilkabra.github.io/qrcodescanner/)
 
 ## My process
 
