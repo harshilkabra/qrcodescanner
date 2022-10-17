@@ -54,5 +54,3 @@ This is a simple qr code page built as a starter project on Frontend Mentor.
 - Website - [Harshil Kabra](https://www.kabraharshil.wordpress.com)
 - Frontend Mentor - [@harshilkabra](https://www.frontendmentor.io/profile/harshilkabra)
 - Twitter - [@harshilkabra](https://twitter.com/harshilkabra)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
